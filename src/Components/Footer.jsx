@@ -35,7 +35,7 @@ function Footer() {
                 <div className="language-wrapper">
                     <div className="img-div"><span class="material-symbols-outlined">language</span></div>
                     <div className="language">English</div>
-                    <div className="arrow-div"><span class="material-symbols-outlined">arrow_drop_down
+                    <div className="arrow-div"><span class="material-symbols-outlined">
                         
                     </span></div>
                 </div>
